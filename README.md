@@ -10,4 +10,4 @@ A Python-based Text-to-Speech (TTS) module that leverages powerful libraries lik
 ### Lightweight & Extensible: Minimal dependencies and modular structure for flexibility.
 # OUTPUT
 
-![Output-convert-text-to-speech-in-python](https://github.com/user-attachments/assets/8792aefa-5dd9-4134-b0aa-4c438a9cc5b6)
+![Output-convert-text-to-speech-in-python](https://github.com/user-attachments/assets/09ad2858-63f7-4a98-ab7b-3258655588f9)
