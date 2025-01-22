@@ -8,3 +8,6 @@ A Python-based Text-to-Speech (TTS) module that leverages powerful libraries lik
 ### Save to Audio Files: Export speech as MP3 or WAV for offline use.
 ### API Integration: Easily integrate with external TTS APIs for enhanced quality and scalability.
 ### Lightweight & Extensible: Minimal dependencies and modular structure for flexibility.
+# OUTPUT
+
+![Output-convert-text-to-speech-in-python](https://github.com/user-attachments/assets/8792aefa-5dd9-4134-b0aa-4c438a9cc5b6)
